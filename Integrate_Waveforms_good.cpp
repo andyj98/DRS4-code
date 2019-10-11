@@ -1,7 +1,7 @@
 /*
 Short code to integrate waveforms and obtain histogram
 */
-
+//This is a trival edit to illustrate branching 
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
